@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel public/index.html",
-    "build": "parcel build public/index.html --dist-dir dist",
+    "build": "parcel build public/index.html public/product.html public/electronic.html public/fashion.html public/furniture.html --dist-dir dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
