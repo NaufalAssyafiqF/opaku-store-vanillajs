@@ -65,4 +65,4 @@ let products = [{
 },]
 
 
-export default products
+export default products;

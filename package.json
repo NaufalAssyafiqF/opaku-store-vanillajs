@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel public/index.html",
-    "build": "parcel build public/index.html public/product.html public/electronic.html public/fashion.html public/furniture.html --dist-dir dist",
+    "build": "parcel build public/index.html public/fashion-page.html public/electronic-page.html public/furniture-page.html public/product-page.html",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "targets": {
+    "default": {
+      "includeNodeModules": true
+    }
   },
   "keywords": [],
   "author": "",
