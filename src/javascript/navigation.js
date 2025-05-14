@@ -11,29 +11,29 @@ const product2559 = document.getElementById("product-2559");
 
 
 product2551.addEventListener("click", () => {
-    window.location.href = "/public/product-page.html?item_id=product-2551";
+    window.location.href = "product-page.html?item_id=product-2551";
 })
 product2552.addEventListener("click", () => {
-    window.location.href = "/public/product-page.html?item_id=product-2552";
+    window.location.href = "product-page.html?item_id=product-2552";
 })
 product2553.addEventListener("click", () => {
-    window.location.href = "/public/product-page.html?item_id=product-2553";
+    window.location.href = "product-page.html?item_id=product-2553";
 })
 product2554.addEventListener("click", () => {
-    window.location.href = "/public/product-page.html?item_id=product-2554";
+    window.location.href = "product-page.html?item_id=product-2554";
 })
 product2555.addEventListener("click", () => {
-    window.location.href = "/public/product-page.html?item_id=product-2555";
+    window.location.href = "product-page.html?item_id=product-2555";
 })
 product2556.addEventListener("click", () => {
-    window.location.href = "/public/product-page.html?item_id=product-2556";
+    window.location.href = "product-page.html?item_id=product-2556";
 })
 product2557.addEventListener("click", () => {
-    window.location.href = "/public/product-page.html?item_id=product-2557";
+    window.location.href = "product-page.html?item_id=product-2557";
 })
 product2558.addEventListener("click", () => {
-    window.location.href = "/public/product-page.html?item_id=product-2558";
+    window.location.href = "product-page.html?item_id=product-2558";
 })
 product2559.addEventListener("click", () => {
-    window.location.href = "/public/product-page.html?item_id=product-2559";
+    window.location.href = "product-page.html?item_id=product-2559";
 })
